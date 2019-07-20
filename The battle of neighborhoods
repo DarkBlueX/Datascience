@@ -1,3 +1,11 @@
 the best neighborhood
-this project is concerned with finding the best nieghborhood in any city of choice and classifying the nieghborhood to 4 classes
-the segmentation of any city will be very useful to people who are trying to open a new business and targeting a specific class or need a recommendation to the location of openning the business
+
+this project is concerned with finding the best neighborhood in any city of choice and classifying the neighborhood to 4 classes
+
+the segmentation of any city will be very useful to people who are trying to open a new business and targeting a specific class or need a recommendation to the location of opening the business
+
+
+
+the segmentation will be based on the amount of unique services and venues that the neighborhood offers each class will have a close amount of unique venues marking them as low, medium, high, and best 
+
+as it stands the higher the amount of unique venues the better the neighborhood because as the place contain more different venues it will attract more different people which makes it a better place for opening a business 
